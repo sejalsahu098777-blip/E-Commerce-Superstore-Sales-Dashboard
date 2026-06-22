@@ -6,7 +6,7 @@ This repository showcases an advanced **E-Commerce Sales Performance Dashboard**
 ---
 
 ## 📷 Dashboard Preview
-<img width="1381" height="745" alt="Screenshot e-commerce dashboard" src="https://github.com/user-attachments/assets/cfd776ad-fe58-4b43-adcf-9dfa9d5588ec" />
+<img width="1381" height="745" alt="Screenshot e-commerce dashboard" src="https://github.com/user-attachments/assets/989f1912-0af8-45b4-99c2-9f5fe39331a8" />
 
 ---
 
@@ -25,8 +25,4 @@ The enterprise demonstrates solid market traction with **$2.30M in Total Sales**
 * **BI Architecture:** Power BI Desktop
 * **Data Engineering:** Power Query (Data cleaning, DataType mapping, and Star-Schema Modeling)
 * **Advanced Visualizations:** Multi-variable Scatter Plots, Regional Bubble Maps, and Area Trend Forecasts
-
-* **BI Architecture:** Power BI Desktop
-* **Data Engineering:** Power Query (Data cleaning, DataType mapping, and Star-Schema Modeling)
-* **Advanced Visualizations:** Multi-variable Scatter Plots, Regional Bubble Maps, and Area Trend Forecasts
-<img width="1381" height="745" alt="Screenshot e-commerce dashboard" src="https://github.com/user-attachments/assets/394f2e15-7449-4118-b52a-7dca1c2a1287" />
+*
