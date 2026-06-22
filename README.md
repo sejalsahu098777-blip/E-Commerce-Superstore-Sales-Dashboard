@@ -25,4 +25,4 @@ The enterprise demonstrates solid market traction with **$2.30M in Total Sales**
 * **BI Architecture:** Power BI Desktop
 * **Data Engineering:** Power Query (Data cleaning, DataType mapping, and Star-Schema Modeling)
 * **Advanced Visualizations:** Multi-variable Scatter Plots, Regional Bubble Maps, and Area Trend Forecasts
-*
+
